@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CalculadoraLenguasFormales</string>
+    <string name="title">Calculadora Autómatas y Lenguajes Formales</string>
+    <string name="alphabets_operation">Operaciones con Alfabetos</string>
+    <string name="chains_operation">Operaciones con Cadenas</string>
+    <string name="languages_operation">Operaciones con Lenguajes</string>
+    <string name="membership">Pertenencia</string>
+    <string name="union">Unión</string>
+    <string name="intersection">Intersección</string>
+    <string name="complement">Complemento</string>
+    <string name="absolute_difference">Diferencia Absoluta</string>
+    <string name="symmetric_difference">Diferencia Simétrica</string>
+    <string name="length">Longitud</string>
+    <string name="concatenation">Concatenación</string>
+    <string name="empowerment">Potenciación</string>
+    <string name="inverse">Inversa</string>
+    <string name="subtraction">Resta</string>
+    <string name="kleene">Clausura de Kleene</string>
+    <string name="positive">Clausura Positiva</string>
+    <string name="copyrights">©AndresRangel</string>
+    <string name="enter_group_a">Ingrese el conjunto A (separado por comas)</string>
+    <string name="enter_group_b">Ingrese el conjunto B (separado por comas)</string>
+    <string name="enter_chain_a">Ingrese la cadena A</string>
+    <string name="enter_chain_b">Ingrese la cadena B</string>
+    <string name="enter_lang_one">Ingrese el lenguaje 1</string>
+    <string name="enter_lang_two">Ingrese el lenguaje 2</string>
+    <string name="calculate">Calcular</string>
+    <string name="clear">Limpiar</string>
+    <string name="data_error">Datos incorrectos</string>
+</resources>
